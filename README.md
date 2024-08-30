@@ -1,7 +1,3 @@
-Here's your updated README with the requested changes:
-
----
-
 # 👋 Hi there! I'm [Shivansh Chauhan](https://github.com/Programmer-Shivansh)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Programmer-Shivansh&color=brightgreen)
