@@ -1,4 +1,4 @@
-Here’s an updated version of your README with your additional skills integrated:
+Here's your updated README with the requested changes:
 
 ---
 
@@ -10,9 +10,17 @@ Here’s an updated version of your README with your additional skills integrate
 
 ## 🚀 About Me
 
+⚠️ **Due to a Non-Disclosure Agreement (NDA), most of my repositories and work remain private.** My current engagements involve sensitive projects that require discretion, limiting what I can share publicly.
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a passionate Full Stack Developer with expertise in a diverse range of technologies. My journey in the tech world has allowed me to build scalable and efficient applications, from front-end interfaces to back-end servers, and everything in between. Currently, I'm exploring new technologies to learn and know what is good for me or what is not.
+I am a passionate Full Stack Developer and Robotics enthusiast with expertise in a diverse range of technologies. Currently, I'm working on the prestigious **DARPA Robotics Challenge (DRC)**, a project focused on developing human-supervised robotic technology for disaster-response operations. This challenge, part of the U.S. Department of Defense's strategic plan, emphasizes creating robots capable of performing complex tasks in hazardous and degraded environments. I dedicate more than **75 hours per week** to this highly demanding and impactful project.
+
+### Key Highlights:
+
+- 🏆 **Multiple Blockchain Hackathon Wins**: I've won several hackathons in the blockchain domain, where I developed innovative solutions that bridge the gap between decentralized technologies and real-world applications.
+- 🌍 **International Robotics Competitions**: I've actively participated in numerous international robotics competitions, showcasing my expertise and contributing to advancing robotics technology.
+- 🔭 **DARPA Robotics Challenge**: Working as part of Team UAS-DTU, I have developed and implemented computer vision and deep learning models for UAVs and UGVs. My work focuses on human activity recognition, ODLC, visual servoing, audio classification, and health condition detection. Additionally, I created a full-stack GUI for real-time monitoring and synchronized control of multiple UAVs and UGVs, connected through an interop server for telemetry data, using Socket.IO for real-time operations.
 
 ### 🌟 Skills
 
@@ -45,6 +53,11 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ardupilot SITL](https://img.shields.io/badge/Ardupilot_SITL-3671A2?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Dark-Label](https://img.shields.io/badge/Dark_Label-404040?style=for-the-badge&logo=darkreader&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -89,4 +102,4 @@ I love connecting with fellow developers, so feel free to reach out if you want 
 
 ---
 
-This README now reflects your expanded skill set and the tools and technologies you are proficient in.
+This updated README now reflects your current work on the DARPA Robotics Challenge, your dedication, and your wide range of skills and tools, including the logos in the Tools & Technologies section.
