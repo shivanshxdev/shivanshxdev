@@ -2,11 +2,12 @@ Here's your updated README with the requested changes:
 
 ---
 
-# 👋 Hi there! I'm [Tanishq](https://github.com/Tanishq1604)
+# 👋 Hi there! I'm [Shivansh Chauhan](https://github.com/Programmer-Shivansh)
 
-![Profile views](https://komarev.com/ghpvc/?username=Tanishq1604&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-b80b66286/)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox&logoColor=white)](https://portfolio-tanishq.vercel.app/)
+![Profile views](https://komarev.com/ghpvc/?username=Programmer-Shivansh&color=brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-chauhan-07014b244/
+)
+<!-- [![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox&logoColor=white)](https://portfolio-tanishq.vercel.app/) -->
 
 ## 🚀 About Me
 
@@ -14,7 +15,7 @@ Here's your updated README with the requested changes:
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a passionate Full Stack Developer and Robotics enthusiast with expertise in a diverse range of technologies. Currently, I'm working on the prestigious **DARPA Robotics Challenge (DRC)**, a project focused on developing human-supervised robotic technology for disaster-response operations. This challenge, part of the U.S. Department of Defense's strategic plan, emphasizes creating robots capable of performing complex tasks in hazardous and degraded environments. I dedicate more than **75 hours per week** to this highly demanding and impactful project.
+I am a passionate Full Stack Developer and Robotics enthusiast with expertise in a diverse range of technologies, including Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Data Science, and Blockchain. Currently, I'm working on the prestigious **DARPA Robotics Challenge (DRC)**, a project focused on developing human-supervised robotic technology for disaster-response operations. This challenge, part of the U.S. Department of Defense's strategic plan, emphasizes creating robots capable of performing complex tasks in hazardous and degraded environments. I dedicate more than **75 hours per week** to this highly demanding and impactful project.
 
 ### Key Highlights:
 
@@ -50,7 +51,6 @@ I am a passionate Full Stack Developer and Robotics enthusiast with expertise in
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -74,14 +74,13 @@ I am a passionate Full Stack Developer and Robotics enthusiast with expertise in
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/tanishq-b80b66286/)
-- [Portfolio](https://portfolio-tanishq.vercel.app/)
-- [Email](mailto:tanishq162005@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shivansh-chauhan-07014b244/)
+
+- [Email](mailto:shivanshchauhan2005@gmail.com)
 
 ## 🌱 Currently Learning
 
 - Advanced AI Techniques
-- Kubernetes
 - Serverless Architectures
 - DevOps
 - Golang
