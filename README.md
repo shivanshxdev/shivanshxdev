@@ -62,14 +62,14 @@ I am a passionate Full Stack Developer and Robotics enthusiast with expertise in
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq1604&show_icons=true&theme=radical" alt="Tanishq's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1604&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-Shivansh&show_icons=true&theme=radical" alt="Shivansh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Shivansh&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishq1604&theme=onedark" alt="Tanishq's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Programmer-Shivansh&theme=onedark" alt="Shivansh's GitHub Trophies" />
 </p>
 
 ## 📫 Let's Connect
@@ -100,5 +100,3 @@ I love connecting with fellow developers, so feel free to reach out if you want 
 *"Innovation distinguishes between a leader and a follower."* – Steve Jobs
 
 ---
-
-This updated README now reflects your current work on the DARPA Robotics Challenge, your dedication, and your wide range of skills and tools, including the logos in the Tools & Technologies section.
