@@ -1,4 +1,4 @@
-Based on the content from the uploaded documents, here's an updated GitHub README that reflects your work, achievements, and skills:
+Here's the updated GitHub README with the provided information:
 
 ---
 
@@ -29,19 +29,17 @@ I am a dedicated software technician, innovator, and researcher specializing in 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+### Software
+- **Linux, Aerial Robotics, Ardupilot SITL, Machine Learning, Deep Learning, Computer Vision, Data Science, Blockchain**
 
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Stellar](https://img.shields.io/badge/-Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
+### Hardware
+- **Pixhawk Cube, Tarot Peeper, Siyi A8 mini, Intel NUC, Jetson Nano**
+
+### Tools
+- **Git, GitHub, Dark-Label, Docker, AWS, Jenkins, CI/CD**
+
+### Soft Skills
+- **Team Work, Technical Management, Leadership, Research, Punctilious**
 
 ## 🚀 Achievements
 
@@ -76,3 +74,4 @@ I am a dedicated software technician, innovator, and researcher specializing in 
 
 ---
 
+This README now fully integrates the skills and tools you've highlighted, providing a comprehensive overview of your technical expertise and ongoing work.
