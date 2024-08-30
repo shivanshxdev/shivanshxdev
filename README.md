@@ -1,9 +1,8 @@
-# Programmer-Shivansh
-Here's your updated GitHub README, incorporating the points you requested:
+Based on the content from the uploaded documents, here's an updated GitHub README that reflects your work, achievements, and skills:
 
 ---
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shivansh Chauhan 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square) 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername) 
@@ -13,21 +12,22 @@ Here's your updated GitHub README, incorporating the points you requested:
 
 ⚠️ **Due to a Non-Disclosure Agreement (NDA), most of my repositories and work remain private.** My current engagements involve sensitive projects that require discretion, limiting what I can share publicly.
 
-I am a dedicated software technician, innovator, and researcher with expertise in **Artificial Intelligence, Blockchain, Full Stack Development, and Robotics**. Currently, I'm working on the prestigious **DARPA Robotics Challenge (DRC)**, a cutting-edge project focused on advancing human-supervised robotic technology for disaster-response operations. This project is part of the U.S. Department of Defense’s initiative to enhance robotic capabilities in hazardous environments. I devote more than **75 hours per week** to pushing the boundaries of technology in this highly demanding and impactful challenge.
+I am a dedicated software technician, innovator, and researcher specializing in **Artificial Intelligence, Blockchain, Full Stack Development, and Robotics**. Currently, I'm working on the prestigious **DARPA Robotics Challenge (DRC)**, a project focused on advancing human-supervised robotic technology for disaster-response operations. This challenge, part of the U.S. Department of Defense's strategic plan, emphasizes developing robots capable of performing complex tasks in hazardous and degraded environments. I dedicate more than **75 hours per week** to this highly demanding and impactful project.
 
 ### Key Highlights:
 
 - 🏆 **Multiple Hackathon Wins**: I've won several hackathons in the blockchain domain, where I developed innovative solutions that bridge the gap between decentralized technologies and real-world applications.
-- 🌍 **International Robotics Competitions**: I've been actively involved in numerous international robotics competitions, showcasing my expertise and contributing to advancing robotics technology.
-- 🔭 **DARPA Robotics Challenge**: Part of a top-tier team working on developing robots that can perform complex tasks in degraded environments, emphasizing supervised autonomy, mobility, dexterity, and strength.
+- 🌍 **International Robotics Competitions**: I've actively participated in numerous international robotics competitions, showcasing my expertise and contributing to advancing robotics technology.
+- 🔭 **DARPA Robotics Challenge**: As part of Team UAS-DTU, I developed and implemented computer vision and deep learning models for UAVs and UGVs, focusing on human activity recognition, ODLC, visual servoing, audio classification, and health condition detection. I also created a full-stack GUI for real-time monitoring and synchronized control of multiple UAVs and UGVs, connected through an interop server for telemetry data, using Socket.IO for real-time operations.
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -39,14 +39,15 @@ I am a dedicated software technician, innovator, and researcher with expertise i
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Stellar](https://img.shields.io/badge/-Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
 
 ## 🚀 Achievements
 
-- 🏆 **DARPA Robotics Challenge**: Actively contributing to the U.S. Department of Defense's initiative to develop advanced disaster-response robotics, working over 75 hours per week on this high-impact project.
+- 🏆 **DARPA Robotics Challenge**: Developed and implemented critical systems as part of the UAS-DTU team, contributing to the U.S. Department of Defense's initiative to develop advanced disaster-response robotics. 
 - 🥇 **Multiple Blockchain Hackathon Wins**: Innovated in the blockchain space with projects that have won recognition for their impact and technical excellence.
-- 🌍 **International Robotics Competitions**: Participated in several prestigious robotics competitions worldwide, advancing the state of the art in robotics.
+- 🌍 **International Robotics Competitions**: Participated in several prestigious robotics competitions worldwide, including securing 3rd position at ICUAS 2024 with a custom YOLO model and being one of only 15 teams selected globally for the DARPA DTC Systems and Virtual Competition.
 
 ## 📈 GitHub Stats
 
@@ -55,9 +56,9 @@ I am a dedicated software technician, innovator, and researcher with expertise i
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- LinkedIn: [Shivansh Chauhan](https://linkedin.com/in/yourusername)
 - Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [shivanshchauhan2005@gmail.com](mailto:shivanshchauhan2005@gmail.com)
 
 ## 🧑‍💻 Open Source Contributions
 
@@ -75,4 +76,3 @@ I am a dedicated software technician, innovator, and researcher with expertise i
 
 ---
 
-This README emphasizes your current work on the DARPA Robotics Challenge, your dedication, and your achievements, while also explaining the NDA situation that limits the visibility of your work.
