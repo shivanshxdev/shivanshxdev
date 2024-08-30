@@ -62,15 +62,15 @@ I am a passionate Full Stack Developer and Robotics enthusiast with expertise in
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-Shivansh&show_icons=true&theme=radical" alt="Shivansh's GitHub stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Programmer-Shivansh&show_icons=true&theme=radical" alt="Shivansh's GitHub stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Shivansh&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Programmer-Shivansh&theme=onedark" alt="Shivansh's GitHub Trophies" />
-</p>
+</p> -->
 
 ## 📫 Let's Connect
 
