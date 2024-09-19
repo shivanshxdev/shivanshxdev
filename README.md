@@ -24,11 +24,11 @@ I am a passionate Full Stack Developer and Robotics enthusiast with expertise in
 - **Frontend:** React, Next.js, JavaScript, TypeScript
 - **Backend:** Node.js, Express.js, Python
 - **Databases:** MongoDB, MySQL, PostgreSQL
-- **Cloud & DevOps:** AWS, Docker, CI/CD, Kubernetes
+- **Cloud & DevOps:** AWS, Docker, CI/CD
 - **AI & ML:** Generative AI, Machine Learning, Deep Learning, Computer Vision, Data Science
-- **Blockchain:** Solidity, Rust, Ethereum, Stellar
+- **Blockchain:** Solidity, Rust, Ethereum, Stellar, Diamante
 - **Hardware:** Pixhawk Cube, Tarot Peeper, Siyi A8 mini, Intel NUC, Jetson Nano
-- **Languages:** C++, JavaScript, Python, Rust, TypeScript
+- **Languages:** C/C++, JavaScript/TypeScript, Python, Rust, TypeScript
 - **Others:** HTML, CSS, Linux, Ardupilot SITL, Git, GitHub, Dark-Label, Jenkins
 - **Learning:** Golang, Advanced AI Techniques, Serverless Architectures, AR/VR
 
