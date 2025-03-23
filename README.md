@@ -1,98 +1,98 @@
-# 👋 Hi there! I'm [Shivansh Chauhan](https://github.com/Programmer-Shivansh)
+<h1 align="center"> 
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Shivansh+!+👋🏻)](https://github.com/Programmer-Shivansh)
 
+<img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
+
+<p align="center"> <i> A Coder At Heart. </i></p>
+<h1 align="center">
+<div>
+ 
 ![Profile views](https://komarev.com/ghpvc/?username=Programmer-Shivansh&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-chauhan-07014b244/
-)
-<!-- [![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox&logoColor=white)](https://portfolio-tanishq.vercel.app/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-chauhan-07014b244/)
+</div></h1>
 
-## 🚀 About Me
+<img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=200 margin="100px"/>
 
-⚠️ **Due to a Non-Disclosure Agreement (NDA), most of my repositories and work remain private.** My current engagements involve sensitive projects that require discretion, limiting what I can share publicly.
+<h3 align="left">About Me: </h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+- OpenSource contributor and 8+ hackathon winner 🏆
+- Indie Hacker Built [Streamers](https://streamers.media) && [SendyourDM](https://sendyourdm.com)
+- CS Student at Delhi Technological university🎓
+- Interested in Solving Problems ☁️
 
-I am a passionate Full Stack Developer and Robotics enthusiast with expertise in a diverse range of technologies, including Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Data Science, and Blockchain. Currently, I'm working on the prestigious **DARPA Robotics Challenge (DRC)**, a project focused on developing human-supervised robotic technology for disaster-response operations. This challenge, part of the U.S. Department of Defense's strategic plan, emphasizes creating robots capable of performing complex tasks in hazardous and degraded environments. I dedicate more than **75 hours per week** to this highly demanding and impactful project.
 
-### Key Highlights:
+<hr>
 
-- 🏆 **Multiple Blockchain Hackathon Wins**: I've won several hackathons in the blockchain domain, where I developed innovative solutions that bridge the gap between decentralized technologies and real-world applications.
-- 🌍 **International Robotics Competitions**: I've actively participated in numerous international robotics competitions, showcasing my expertise and contributing to advancing robotics technology.
-- 🔭 **DARPA Robotics Challenge**: Working as part of Team UAS-DTU, I have developed and implemented computer vision and deep learning models for UAVs and UGVs. My work focuses on human activity recognition, ODLC, visual servoing, audio classification, and health condition detection. Additionally, I created a full-stack GUI for real-time monitoring and synchronized control of multiple UAVs and UGVs, connected through an interop server for telemetry data, using Socket.IO for real-time operations.
 
-### 🌟 Skills
+## 🔧 Skills
 
-- **Frontend:** React, Next.js, JavaScript, TypeScript
-- **Backend:** Node.js, Express.js, Python
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Cloud & DevOps:** AWS, Docker, CI/CD
-- **AI & ML:** Generative AI, Machine Learning, Deep Learning, Computer Vision, Data Science
-- **Blockchain:** Solidity, Rust, Ethereum, Stellar, Diamante
-- **Hardware:** Pixhawk Cube, Tarot Peeper, Siyi A8 mini, Intel NUC, Jetson Nano
-- **Languages:** C/C++, JavaScript/TypeScript, Python, Rust, TypeScript
-- **Others:** HTML, CSS, Linux, Ardupilot SITL, Git, GitHub, Dark-Label, Jenkins
-- **Learning:** Golang, Advanced AI Techniques, Serverless Architectures, AR/VR
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  
+  <!-- Blockchain & Web3 -->
+  <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Hardhat-00C6E6?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/FunC-2F3A40?style=for-the-badge&logo=blockchain&logoColor=white" alt="FunC" />
+  <img src="https://img.shields.io/badge/Tact-5C77A1?style=for-the-badge&logo=blockchain&logoColor=white" alt="Tact" />
 
-### 🔧 Tools & Technologies
+  <!-- Databases & ORMs -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-276DC3?style=for-the-badge&logo=sequelize&logoColor=white" alt="Drizzle ORM" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ardupilot SITL](https://img.shields.io/badge/Ardupilot_SITL-3671A2?style=for-the-badge&logo=arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Dark-Label](https://img.shields.io/badge/Dark_Label-404040?style=for-the-badge&logo=darkreader&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Programmer-Shivansh&show_icons=true&theme=radical" alt="Shivansh's GitHub stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Shivansh&layout=compact&theme=radical" alt="Top Langs" />
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0066CC?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<!-- ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Programmer-Shivansh&theme=onedark" alt="Shivansh's GitHub Trophies" />
-</p> -->
+# 📊 GitHub Stats:
+<table align='center'>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Programmer-Shivansh&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer-Shivansh&theme=2077">
+     </td>
+   </tr>
+</table><table align='center'>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Programmer-Shivansh&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Programmer-Shivansh&theme=aura_dark&exclude=html,scss,mathematica,js,CSS"></td>
+  </tr>
+</table>
 
-## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/shivansh-chauhan-07014b244/)
-
-- [Email](mailto:shivanshchauhan2005@gmail.com)
-
-## 🌱 Currently Learning
-
-- Advanced AI Techniques
-- Serverless Architectures
-- DevOps
-- Golang
-
-## 🎯 Goals for 2024
-
-- Contribute to open-source projects
-- Learn technologies like AR/VR
-- Improve my DevOps skills
-
-## 💬 Let's Chat!
-
-I love connecting with fellow developers, so feel free to reach out if you want to discuss technology, projects, or anything else!
-
----
-
-*"Innovation distinguishes between a leader and a follower."* – Steve Jobs
-
----
+> *"The future is yours to invent."* — **Jensen Huang**
